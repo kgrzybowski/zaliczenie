@@ -1,0 +1,6 @@
+e0efd337af1c8987669ff56d646b3e2d07c92947 (HEAD -> main) Merge branch 'playoff'
+ab8a1cada41eb0c8dd0b1ed6a8ebdd6de205729f (tag: v1.1, origin/playoff) Spotkanie półfinałowe baraży
+2f584e708e409ea2e1e02e92095a216790944e98 (tag: v1.0) Obchody dnia bez zakupów
+dbb4b56b197c5b38bba77ccc5282aa61458b43dd Opis dnia bez zakupów
+1178074089f10e28bd9e3ea6ca85bac979435921 Dzień bez zakupów
+f667c6bd0478ed2fb7219c184eac3fef8b959ebb (origin/main, origin/HEAD) Initial commit
